@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.04.24 20:58:53.476.pas,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit2.pas=D:\Programming\delfi_2010\__sc2tv_wmp\URLForm.pas</Transaction>
+    <Transaction>2010.04.24 20:58:53.494.dfm,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit2.dfm=D:\Programming\delfi_2010\__sc2tv_wmp\URLForm.dfm</Transaction>
+    <Transaction>2010.04.24 20:59:00.047.pas,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit1.pas=D:\Programming\delfi_2010\__sc2tv_wmp\MainForm.pas</Transaction>
+    <Transaction>2010.04.24 20:59:00.047.dfm,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit1.dfm=D:\Programming\delfi_2010\__sc2tv_wmp\MainForm.dfm</Transaction>
+    <Transaction>2010.04.24 20:59:11.853.dproj,C:\Users\MyIE\Documents\RAD Studio\Projects\Project1.dproj=D:\Programming\delfi_2010\__sc2tv_wmp\SC2_Player_P2P.dproj</Transaction>
+    <Transaction>2010.04.24 20:59:25.835.pas,D:\Programming\delfi_2010\__sc2tv_wmp\Unit3.pas=D:\Programming\delfi_2010\__sc2tv_wmp\AboutForm.pas</Transaction>
+    <Transaction>2010.04.24 20:59:25.835.dfm,D:\Programming\delfi_2010\__sc2tv_wmp\Unit3.dfm=D:\Programming\delfi_2010\__sc2tv_wmp\AboutForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
